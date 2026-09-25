@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Halo, Saya Hidayatul Akbar 👋</h1>
   <p><em>Tech Enthusiast, Hardware Technician & Network Tweaker</em></p>
-  <p>📍 Lhokseumawe, Indonesia</p>
+  <p>📍 Aceh, Indonesia</p>
 </div>
 
 ---
