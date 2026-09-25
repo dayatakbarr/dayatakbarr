@@ -47,6 +47,3 @@ Selamat datang di profil GitHub saya! Walaupun saya memiliki latar belakang pend
 
 ### 🔗 Hubungi Saya
 * **Mail** : *dayatakbr@gmail.com*
-
-* 🌐 Lokasi: Lhokseumawe, Aceh, Indonesia
-*
