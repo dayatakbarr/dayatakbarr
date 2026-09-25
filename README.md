@@ -31,7 +31,7 @@ Selamat datang di profil GitHub saya! Walaupun saya memiliki latar belakang pend
 
 * **D'Cell:** Mengelola bisnis perbaikan perangkat seluler.
 * **Eksperimen Jaringan & Sistem:** Eksplorasi berkelanjutan pada optimasi router OpenWrt dan sistem *open-source*.
-* **Mencoba untuk belajar lebih dalam khususnya dalam hal dunia perkodingan*
+*  *Mencoba untuk belajar lebih dalam khususnya dalam hal dunia perkodingan*
 
 ---
 
