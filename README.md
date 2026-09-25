@@ -18,33 +18,35 @@ Selamat datang di profil GitHub saya! Walaupun saya memiliki latar belakang pend
   * Pengoperasian layanan servis seluler **D'Cell**.
   * Ahli dalam perbaikan tingkat lanjut termasuk teknik *reballing* IC (**ACP**: Angkat, Cetak, Pasang).
 * **📱 Android Customization:** 
-  * Modifikasi *custom firmware*, *flashing custom kernel*, dan penerapan modul *root-masking* pada perangkat seperti **POCO F4** dan **POCO X3 NFC**.
+  * Modifikasi *custom firmware*, *flashing custom kernel*, dan penerapan modul *root-masking* pada perangkat seperti **XIAOMI** dan **POCO**.
 * **🌐 Network & OpenWrt Configuration:** 
-  * Peracikan dan konfigurasi *custom firmware* OpenWrt (**MutiaraWRT** & **ReyreWRT**) pada perangkat seperti **ZTE B860H STB**, modem **Orbit Star G1**, dan router **Tianyi TY300** (menggunakan mode WISP dan IP Hunter).
+  * Peracikan dan konfigurasi *custom firmware* OpenWrt pada perangkat seperti **STB**, **MODEM**, dan **ROUTER**.
 * **💻 Operating Systems & Multi-Boot:** 
-  * Pengaturan lingkungan *multi-boot* menggunakan Grub2Win untuk **Linux Mint** dan **Google TV** pada perangkat laptop.
+  * Pengaturan lingkungan *multi-boot* **Linux** dan **windows** pada perangkat laptop.
+  * Modifikasi *windows* dan lainnya.
 
 ---
 
 ### 🚀 Proyek & Aktivitas Saat Ini
 
-* **D'Cell:** Mengelola bisnis perbaikan perangkat seluler dan layanan isi ulang pulsa.
-* **Al Gayo Tobacco:** Mengembangkan merek tembakau lokal (mulai dari desain kemasan hingga strategi digital).
+* **D'Cell:** Mengelola bisnis perbaikan perangkat seluler.
 * **Eksperimen Jaringan & Sistem:** Eksplorasi berkelanjutan pada optimasi router OpenWrt dan sistem *open-source*.
+* **Mencoba untuk belajar lebih dalam hal khususnya coding*
 
 ---
 
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAMA_USERNAME_GITHUB_ANDA&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dayatakbarr&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMA_USERNAME_GITHUB_ANDA&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayatakbarr&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🔗 Hubungi Saya
+* **Mail** : *dayatakbr@gmail.com*
 
 * 🌐 Lokasi: Lhokseumawe, Aceh, Indonesia
 *
