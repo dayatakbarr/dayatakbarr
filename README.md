@@ -1,19 +1,22 @@
 <h1 align="center">Hi there, I'm Hidayatul Akbar 👋</h1>
-<h3 align="center">Software Engineer | AI Integration Specialist | Backend Developer</h3>
+<h3 align="center">Software Engineer | AI Orchestrator | Backend & Network Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Integrating+LLMs+into+Dev+Workflows;Network+Protocol+%26+Data+Extraction;Automating+Complex+Tasks+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Integrating+LLMs+into+Dev+Workflows;Network+Protocol+%26+Data+Extraction;AI-Assisted+Web+Development;Hardware+%26+System+Diagnostics" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I am a Software Engineer with a strong focus on **Backend Development**, **Network Programming**, and **AI-Driven Workflows**. I specialize in building robust systems that parse complex data structures and automating development processes using Large Language Models (LLMs). 
+I am a versatile Software Engineer with a strong focus on **Backend Development**, **Network Programming**, and **AI-Driven Workflows**. I specialize in building robust systems that parse complex data structures and automating development processes using Large Language Models (LLMs). 
+
+Beyond software, I have a deep understanding of **Hardware Diagnostics** and **System Administration**, allowing me to troubleshoot issues from the application layer down to the operating system.
 
 - 🔭 Currently building a high-performance **Network Data Extraction Engine** using Python (TCP Sockets, Asynchronous I/O).
-- 🤖 Experienced in **AI Orchestration**: Integrating LLMs (OpenAI, Gemini, Claude, Llama) into automated code refactoring and data analysis pipelines.
+- 🤖 Experienced in **AI Orchestration**: Integrating LLMs (OpenAI, Gemini, Claude, Llama) into automated code refactoring, data analysis, and rapid web prototyping via GitHub Copilot.
 - ⚙️ Highly adaptable to constrained environments (Linux/Termux), capable of developing and debugging complex systems directly from a mobile terminal.
+- 🔧 **Hardware & IT Support:** Proficient in laptop/PC hardware troubleshooting, OS installation, and Android system optimization (Custom ROMs, Termux).
 - 🚀 Passionate about writing clean, maintainable code and solving complex data-mapping problems.
 
 ---
@@ -24,6 +27,8 @@ I am a Software Engineer with a strong focus on **Backend Development**, **Netwo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Backend & Networking:**
 ![Socket](https://img.shields.io/badge/TCP%2FIP_Sockets-00599C?style=flat-square)
@@ -33,36 +38,25 @@ I am a Software Engineer with a strong focus on **Backend Development**, **Netwo
 
 **AI & Automation Tools:**
 ![LLMs](https://img.shields.io/badge/LLM_Integration-FFD700?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
 ![Aider](https://img.shields.io/badge/Aider_AI_Agent-000000?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square)
 
-**Environment & DevOps:**
+**Environment, Hardware & DevOps:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Termux](https://img.shields.io/badge/Termux_Android-000000?style=flat-square&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android_System-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 💼 Core Competencies
 
-### 💻 Web Development & Frontend
-
-Selain fokus pada backend, saya juga membangun antarmuka web yang responsif dan fungsional dengan bantuan AI.
-
-*   **AI-Assisted Frontend Development:** Memanfaatkan GitHub Copilot untuk mempercepat penulisan kode HTML, CSS, JavaScript, dan framework modern.
-*   **Rapid Prototyping:** Mengubah ide menjadi *website* yang siap pakai dengan cepat tanpa mengorbankan kualitas kode.
-
-### 🔧 Hardware Diagnostics & IT Support
-
-Saya memiliki pemahaman mendalam tentang sistem operasi dan perangkat keras, yang sangat membantu dalam proses *debugging* tingkat rendah (low-level) dan optimasi sistem.
-
-*   **Laptop & PC Repair:** Berpengalaman dalam perakitan PC, pembersihan *thermal paste*, penggantian komponen keras, dan *troubleshooting* sistem operasi (Windows/Linux).
-*   **Android Systems:** Menguasai instalasi *custom ROM*, *flashing*, *rooting*, dan optimasi sistem Android (termasuk pengalaman menjalankan Linux/Termux secara langsung di perangkat *mobile*).
-
 *   **Network Protocol Analysis:** Deep understanding of TCP socket communication, binary packet parsing (SDP), and data serialization/deserialization.
-*   **AI-Assisted Development:** Leveraging AI agents (like Aider) and custom API integrations to refactor massive codebases, identify bugs, and generate documentation efficiently.
+*   **AI-Assisted Development:** Leveraging AI agents (like Aider & Copilot) and custom API integrations to refactor massive codebases, identify bugs, and accelerate web development.
 *   **Data Engineering:** Extracting raw, nested data (JSON/Dictionaries) and transforming it into structured, accurate, and readable formats.
 *   **Fault-Tolerant Architecture:** Implementing "Hybrid Fallback" systems where AI is used for parsing, with a robust hardcoded fallback mechanism to prevent data loss or infinite loops.
+*   **Hardware Diagnostics:** Proficient in low-level troubleshooting, thermal management, and component replacement for laptops and mobile devices.
 
 ---
 
@@ -79,6 +73,12 @@ Saya memiliki pemahaman mendalam tentang sistem operasi dan perangkat keras, yan
 *   **Key Achievements:**
     *   Utilized custom context-injection and prompt engineering to bypass standard LLM context-window limits.
     *   Successfully refactored complex networking logic while maintaining code integrity.
+
+#### 3. AI-Driven Web Prototyping
+*   **Description:** Rapid development of responsive web interfaces using GitHub Copilot as a pair-programmer to generate boilerplate, optimize CSS, and debug frontend logic.
+*   **Key Achievements:**
+    *   Reduced development time by 40% through effective AI prompting.
+    *   Successfully integrated REST APIs with modern frontend frameworks.
 
 ---
 
