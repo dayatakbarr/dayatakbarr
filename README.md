@@ -45,6 +45,20 @@ I am a Software Engineer with a strong focus on **Backend Development**, **Netwo
 
 ### 💼 Core Competencies
 
+### 💻 Web Development & Frontend
+
+Selain fokus pada backend, saya juga membangun antarmuka web yang responsif dan fungsional dengan bantuan AI.
+
+*   **AI-Assisted Frontend Development:** Memanfaatkan GitHub Copilot untuk mempercepat penulisan kode HTML, CSS, JavaScript, dan framework modern.
+*   **Rapid Prototyping:** Mengubah ide menjadi *website* yang siap pakai dengan cepat tanpa mengorbankan kualitas kode.
+
+### 🔧 Hardware Diagnostics & IT Support
+
+Saya memiliki pemahaman mendalam tentang sistem operasi dan perangkat keras, yang sangat membantu dalam proses *debugging* tingkat rendah (low-level) dan optimasi sistem.
+
+*   **Laptop & PC Repair:** Berpengalaman dalam perakitan PC, pembersihan *thermal paste*, penggantian komponen keras, dan *troubleshooting* sistem operasi (Windows/Linux).
+*   **Android Systems:** Menguasai instalasi *custom ROM*, *flashing*, *rooting*, dan optimasi sistem Android (termasuk pengalaman menjalankan Linux/Termux secara langsung di perangkat *mobile*).
+
 *   **Network Protocol Analysis:** Deep understanding of TCP socket communication, binary packet parsing (SDP), and data serialization/deserialization.
 *   **AI-Assisted Development:** Leveraging AI agents (like Aider) and custom API integrations to refactor massive codebases, identify bugs, and generate documentation efficiently.
 *   **Data Engineering:** Extracting raw, nested data (JSON/Dictionaries) and transforming it into structured, accurate, and readable formats.
