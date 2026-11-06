@@ -1,93 +1,92 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Hidayatul Akbar 👋</h1>
+<h3 align="center">Software Engineer | AI Integration Specialist | Backend Developer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:2DA44E&height=240&section=header&text=Hidayatul%20Akbar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20in%20Progress&descSize=18&descAlignY=55" alt="Header animasi Hidayatul Akbar, Python Developer in Progress" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Halo%2C+selamat+datang+di+profil+saya!;Saya+sedang+belajar+menjadi+programmer;Satu+baris+kode+setiap+hari+%F0%9F%9A%80" alt="Animasi teks perkenalan" />
-
-<h3>Programmer pemula yang lagi belajar dan suka nyoba hal baru</h3>
-
-Saya masih di tahap awal, tapi semangatnya cukup besar. Saya sedang membangun dasar-dasar pemrograman, belajar Python, dan mencoba bikin proyek kecil yang berguna.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Kunjungi_profil-181717?style=for-the-badge&logo=github)](https://github.com/dayatakbarr)
-[![Status](https://img.shields.io/badge/Status-Belajar_aktif-2DA44E?style=for-the-badge)](https://github.com/dayatakbarr)
-[![Open%20to%20Work](https://img.shields.io/badge/Open%20to%20Work-Yes-FF6B6B?style=for-the-badge)](https://github.com/dayatakbarr)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Integrating+LLMs+into+Dev+Workflows;Network+Protocol+%26+Data+Extraction;Automating+Complex+Tasks+with+AI" alt="Typing SVG" />
+</p>
 
 ---
 
-### Tentang saya
+### 🧠 About Me
 
-- 👋 Nama saya **Hidayatul Akbar**.
-- 🌱 Saya lagi mulai belajar dunia programming.
-- 🧩 Saya suka mencoba hal baru dan bikin proyek sederhana.
-- 🎯 Tujuan saya: konsisten, paham dasar, dan terus berkembang.
-- 💡 Saya percaya belajar itu proses, jadi saya fokus tiap hari.
+I am a Software Engineer with a strong focus on **Backend Development**, **Network Programming**, and **AI-Driven Workflows**. I specialize in building robust systems that parse complex data structures and automating development processes using Large Language Models (LLMs). 
 
-### Fokus saat ini
+- 🔭 Currently building a high-performance **Network Data Extraction Engine** using Python (TCP Sockets, Asynchronous I/O).
+- 🤖 Experienced in **AI Orchestration**: Integrating LLMs (OpenAI, Gemini, Claude, Llama) into automated code refactoring and data analysis pipelines.
+- ⚙️ Highly adaptable to constrained environments (Linux/Termux), capable of developing and debugging complex systems directly from a mobile terminal.
+- 🚀 Passionate about writing clean, maintainable code and solving complex data-mapping problems.
 
-- Python dasar dan logika program
-- Backend dengan Django, Flask, dan FastAPI
-- Data handling dengan NumPy dan Pandas
-- Git dan GitHub
-- Bikin proyek kecil yang bermanfaat
+---
 
-### Teknologi yang saya pelajari
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,git,github,vscode,linux&perline=7" alt="Python, Django, Flask, FastAPI, Git, GitHub, VS Code, dan Linux" />
+**Backend & Networking:**
+![Socket](https://img.shields.io/badge/TCP%2FIP_Sockets-00599C?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON_Parsing-000000?style=flat-square&logo=json&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF5722?style=flat-square)
+![Encryption](https://img.shields.io/badge/AES%2FZstd_Cryptography-333333?style=flat-square)
 
-</div>
+**AI & Automation Tools:**
+![LLMs](https://img.shields.io/badge/LLM_Integration-FFD700?style=flat-square)
+![Aider](https://img.shields.io/badge/Aider_AI_Agent-000000?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square)
 
-### Statistik GitHub
+**Environment & DevOps:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Termux](https://img.shields.io/badge/Termux_Android-000000?style=flat-square&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<div align="center">
+---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dayatakbarr&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true&count_private=true" alt="Statistik GitHub Hidayatul Akbar" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayatakbarr&layout=compact&hide_border=true&theme=transparent" alt="Bahasa pemrograman yang sering digunakan" />
+### 💼 Core Competencies
 
-<br />
+*   **Network Protocol Analysis:** Deep understanding of TCP socket communication, binary packet parsing (SDP), and data serialization/deserialization.
+*   **AI-Assisted Development:** Leveraging AI agents (like Aider) and custom API integrations to refactor massive codebases, identify bugs, and generate documentation efficiently.
+*   **Data Engineering:** Extracting raw, nested data (JSON/Dictionaries) and transforming it into structured, accurate, and readable formats.
+*   **Fault-Tolerant Architecture:** Implementing "Hybrid Fallback" systems where AI is used for parsing, with a robust hardcoded fallback mechanism to prevent data loss or infinite loops.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dayatakbarr&theme=transparent&hide_border=true" alt="GitHub Streak Hidayatul Akbar" />
+---
 
-<br />
+### 🚀 Highlighted Projects
 
-<img src="https://github-profile-trophy.vercel.app/?username=dayatakbarr&theme=flat&no-frame=true&margin-w=8&margin-h=8" alt="Trophy GitHub Hidayatul Akbar" />
+#### 1. High-Throughput Protocol Data Extractor
+*   **Description:** A custom Python-based engine designed to communicate with a proprietary binary network protocol. It handles multi-threaded socket connections, AES encryption, Zstd compression, and real-time data extraction.
+*   **Key Achievements:** 
+    *   Implemented a self-healing parser mechanism (Hybrid AI Fallback) to ensure 100% data accuracy even during server updates.
+    *   Optimized memory usage for parsing massive nested JSON structures without blocking the main thread.
 
-<br />
+#### 2. AI-Assisted Codebase Refactoring Pipeline
+*   **Description:** An automated workflow utilizing CLI AI agents (Nemotron/Llama 3) to analyze, debug, and rewrite a legacy 8,000+ line Python codebase.
+*   **Key Achievements:**
+    *   Utilized custom context-injection and prompt engineering to bypass standard LLM context-window limits.
+    *   Successfully refactored complex networking logic while maintaining code integrity.
 
-<img src="https://raw.githubusercontent.com/dayatakbarr/dayatakbarr/output/github-contribution-grid-snake.svg" alt="Animasi ular kontribusi GitHub" width="100%" />
+---
 
-</div>
+### 📊 GitHub Stats
 
-### Aktivitas dan profil
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dayatakbarr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayatakbarr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<div align="center">
+---
 
-<img src="https://komarev.com/ghpvc/?username=dayatakbarr&label=Profile+Views&color=blue&style=flat-square" alt="Jumlah tampilan profil GitHub" />
+### 📫 Let's Connect!
 
-</div>
+I am currently open to new opportunities and collaborations. Feel free to reach out!
 
-### Yang lagi saya kerjakan
+<p align="left">
+<a href="mailto:dayatakbr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/dayatakbarr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
 
-- Belajar Python dari dasar sampai paham
-- Bikin proyek kecil yang berguna
-- Coba framework backend dan tools data
-- Nambahin skill Git dan GitHub setiap hari
-
-### Mari terhubung
-
-Thanks udah mampir! Saya masih belajar, tapi selalu siap untuk sharing, diskusi, dan kenalan dengan sesama developer.
-
-[![GitHub](https://img.shields.io/badge/GitHub-dayatakbarr-181717?style=flat-square&logo=github)](https://github.com/dayatakbarr)
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:35C6B4&height=100&section=footer" alt="Dekorasi gelombang" />
-
-</div>
+<p align="center">
+  <i>"Writing code is easy. Designing systems that can heal themselves is the real challenge."</i>
+</p>
